@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-import './AddFishForm.css';
 
 class AddFishForm extends Component {
   nameRef = React.createRef();
