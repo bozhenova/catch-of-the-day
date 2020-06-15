@@ -50,3 +50,10 @@
   transform: translateX(-50%) rotateY(10deg) translateX(50%) scale(1.08)
     translateX(24px);
 }
+
+.go-back {
+  position: absolute;
+  top: 1rem;
+  left: 8rem;
+  padding: 0.5rem 1rem;
+}
