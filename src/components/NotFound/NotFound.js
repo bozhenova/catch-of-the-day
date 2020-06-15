@@ -1,5 +1,9 @@
 import React from 'react';
 
-const NotFound = () => <div>Not Found!</div>;
+const NotFound = () => (
+  <div style={{ textAlign: 'center', marginTop: '20px' }}>
+    The page was not found!
+  </div>
+);
 
 export default NotFound;
