@@ -1,9 +1,15 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+
 import { getFunName } from '../../helpers';
 import './StorePicker.css';
 
 class StorePicker extends Component {
   myInput = React.createRef();
+
+  static propTypes = {
+    history: PropTypes.object.isRequired
+  };
 
   goToStore = e => {
     e.preventDefault();
