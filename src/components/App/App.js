@@ -81,7 +81,7 @@ class App extends Component {
       <div>
         <button
           className='go-back'
-          onClick={() => this.props.history.push(`/`)}
+          onClick={() => this.props.history.push('catch-of-the-day/')}
         >
           Go Back
         </button>
