@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/catch-of-the-day/static/css/main.709c07b7.chunk.css",
-    "main.js": "/catch-of-the-day/static/js/main.6ca5f01d.chunk.js",
-    "main.js.map": "/catch-of-the-day/static/js/main.6ca5f01d.chunk.js.map",
+    "main.css": "/catch-of-the-day/static/css/main.cd9f7b40.chunk.css",
+    "main.js": "/catch-of-the-day/static/js/main.32dffd7d.chunk.js",
+    "main.js.map": "/catch-of-the-day/static/js/main.32dffd7d.chunk.js.map",
     "runtime-main.js": "/catch-of-the-day/static/js/runtime-main.c7a66123.js",
     "runtime-main.js.map": "/catch-of-the-day/static/js/runtime-main.c7a66123.js.map",
     "static/js/2.f7eb6bec.chunk.js": "/catch-of-the-day/static/js/2.f7eb6bec.chunk.js",
     "static/js/2.f7eb6bec.chunk.js.map": "/catch-of-the-day/static/js/2.f7eb6bec.chunk.js.map",
     "index.html": "/catch-of-the-day/index.html",
-    "precache-manifest.768ab39653b71ac29052e33ba3f05745.js": "/catch-of-the-day/precache-manifest.768ab39653b71ac29052e33ba3f05745.js",
+    "precache-manifest.578fb1b4bf4d1c822a546f6d842d054f.js": "/catch-of-the-day/precache-manifest.578fb1b4bf4d1c822a546f6d842d054f.js",
     "service-worker.js": "/catch-of-the-day/service-worker.js",
-    "static/css/main.709c07b7.chunk.css.map": "/catch-of-the-day/static/css/main.709c07b7.chunk.css.map",
+    "static/css/main.cd9f7b40.chunk.css.map": "/catch-of-the-day/static/css/main.cd9f7b40.chunk.css.map",
     "static/js/2.f7eb6bec.chunk.js.LICENSE.txt": "/catch-of-the-day/static/js/2.f7eb6bec.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/catch-of-the-day/static/media/anchor.d2f8799a.svg",
     "static/media/style.css": "/catch-of-the-day/static/media/haymaker-webfont.e9535f20.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c7a66123.js",
     "static/js/2.f7eb6bec.chunk.js",
-    "static/css/main.709c07b7.chunk.css",
-    "static/js/main.6ca5f01d.chunk.js"
+    "static/css/main.cd9f7b40.chunk.css",
+    "static/js/main.32dffd7d.chunk.js"
   ]
 }
