@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5f396ae8c4e352bafaeeae58c869fe1",
+    "revision": "10916ab67bfa1262a25b3a07f8ec25b1",
     "url": "/catch-of-the-day/index.html"
   },
   {
-    "revision": "5d0d9074ec156a22b041",
+    "revision": "4f585dbde4d103932a9b",
     "url": "/catch-of-the-day/static/css/main.cd9f7b40.chunk.css"
   },
   {
-    "revision": "17e5d15db18af409d385",
-    "url": "/catch-of-the-day/static/js/2.f7eb6bec.chunk.js"
+    "revision": "14b0d5f47a95a8639021",
+    "url": "/catch-of-the-day/static/js/2.e572c592.chunk.js"
   },
   {
     "revision": "f42d151f61898dd9d5ffe0d9c5238b3c",
-    "url": "/catch-of-the-day/static/js/2.f7eb6bec.chunk.js.LICENSE.txt"
+    "url": "/catch-of-the-day/static/js/2.e572c592.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d0d9074ec156a22b041",
-    "url": "/catch-of-the-day/static/js/main.32dffd7d.chunk.js"
+    "revision": "4f585dbde4d103932a9b",
+    "url": "/catch-of-the-day/static/js/main.e22a3546.chunk.js"
   },
   {
     "revision": "ed003242d0cff12ead37",
