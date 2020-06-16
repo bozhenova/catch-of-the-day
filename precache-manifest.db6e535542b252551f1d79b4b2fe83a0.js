@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10916ab67bfa1262a25b3a07f8ec25b1",
+    "revision": "ec902509fa863004e3a519f76ec74da3",
     "url": "/catch-of-the-day/index.html"
   },
   {
-    "revision": "4f585dbde4d103932a9b",
+    "revision": "eb71c1167572f76dac01",
     "url": "/catch-of-the-day/static/css/main.cd9f7b40.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catch-of-the-day/static/js/2.e572c592.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f585dbde4d103932a9b",
-    "url": "/catch-of-the-day/static/js/main.e22a3546.chunk.js"
+    "revision": "eb71c1167572f76dac01",
+    "url": "/catch-of-the-day/static/js/main.bdfea5ed.chunk.js"
   },
   {
     "revision": "ed003242d0cff12ead37",
